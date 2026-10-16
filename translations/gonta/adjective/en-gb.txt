@@ -1,0 +1,3 @@
+concise
+brief
+pithy

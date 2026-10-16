@@ -1,0 +1,4 @@
+characteristic
+symptom
+property
+quality

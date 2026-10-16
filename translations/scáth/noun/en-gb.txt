@@ -1,0 +1,4 @@
+shade
+shadow
+shelter
+umbrella

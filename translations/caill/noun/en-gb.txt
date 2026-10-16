@@ -1,0 +1,4 @@
+loss
+damage
+decrease
+defect
